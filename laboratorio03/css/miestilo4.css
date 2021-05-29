@@ -1,0 +1,70 @@
+.contenedor{
+    background-color: blue;
+}
+.cabecera{
+    background-color: blueviolet;
+}
+.menu{
+    background-color: chartreuse;
+}
+.contenido{
+    background-color: chocolate;
+}
+.pie{
+    background-color: gold;
+}
+body{
+    background-color: darkgray;
+}
+.parrafoimagen{
+    background-image:url("/img/Screenshot_4.png") ;
+}
+.parrafotransparencia{
+    background-color: black;
+    opacity: 75%;
+}
+    .parrafoimagenrepetir{
+    background-image:url("/img/html5ycss3.png")
+    
+}
+
+.parrafoimagennorepetir{
+    background-image:url("/imng/html5ycss3.png")
+    background-repeat no-repeat;
+}
+
+
+.parrafoimagentamaño{
+    background-image:url("/img/html5ycss3.png")
+    background-size 30px;
+}
+.parrafoimagenrepetirhorizontal{
+    background-image:url("/img/html5ycss3.png")
+    background-repeat no-repeat;
+    background-size: 30px;
+}
+
+.parrafoimagensuperior{
+    background-image:url("/imng/html5ycss3.png")
+    background-position top;
+    background-repeat: no-repeat;
+    background-size: 30px;
+}
+.parrafoimageninferior{
+    background-image:url("/img/html5ycss3.png")
+    background-position bottom;
+    background-repeat: no-repeat;
+    background-size: 30px;
+}
+.parrafoimagensuperiorderecha{
+    background-image:url("/img/html5ycss3.png")
+    background-position top right;
+    background-repeat: no-repeat;
+    background-size: 30px;
+}
+.parrafoimageninferiorizquierda{
+    background-image:url("/img/html5ycss3.png")
+    background-position bottom left;
+    background-repeat: no-repeat;
+    background-size: 30px;
+}

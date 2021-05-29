@@ -1,0 +1,24 @@
+#titulos{
+    color:crimson;
+    font-style: italic;
+}
+#barra{
+    background-color: darkcyan;
+    height: 15px;
+}
+#subtitulospares{
+    color: darkorange;
+    font-weight: bolder;
+}
+#parrafospares{
+    color: cyan;
+    font-style: italic;
+}
+#subtitulosimpares{
+    color:gold;
+    font-weight: bolder;
+}
+#parrafosimpares{
+    color: rebeccapurple;
+    font-weight: bolder;
+}
